@@ -1,0 +1,218 @@
+[
+    {
+        "project_name": "Blue Origin Demo of Deorbit, Descent, and Landing Sensors (BODDL-TP)",
+        "project_description": "This contract task will mature several NASA descent and landing sensors and conduct flight tests in a relevant environment. Blue Origin, along with its NASA and JPL partners, proposes to mature critical technologies that enable precision and soft landing on the Moon. We will mature several current NASA sensors and conduct flight tests in a relevant environment. Testing will be performed at approximately 100 km altitude on-board our flight proven New Shepard vertical takeoff vertical landing (VTVL) suborbital vehicle. This proposal will allow the country to eventually meet ambitious lunar objectives, enable economic development, and support U.S. strategic leadership in space.",
+        "project_url_external": "https://data.nasa.gov/Aerospace/Blue-Origin-Demo-of-Deorbit-Descent-and-Landing-Se/nj3a-8wq3",
+        "sub_tag": "Aerospace",
+        "category": "Project",
+        "created_date": "2022-10-28",
+        "publisher": ""
+    },
+    {
+        "project_name": "NASA TechPort",
+        "project_description": "This dataset contains the list of all publicly published NASA projects from within the NASA technology portfolio.  In-depth portfolio information, including details for each of the NASA projects found here, can be found and searched at TechPort.NASA.gov.",
+        "project_url_external": "https://data.nasa.gov/Aerospace/NASA-TechPort/bq5k-hbdz",
+        "sub_tag": "Aerospace",
+        "category": "Project",
+        "created_date": "2021-12-1",
+        "publisher": ""
+    },
+    {
+        "project_name": "Testing Again Now",
+        "project_description": "A test dataset for Socrata help ticket",
+        "project_url_external": "https://data.nasa.gov/Space-Science/Testing-Again-Now/rg5u-t97p",
+        "sub_tag": "Space Science",
+        "category": "Project",
+        "created_date": "2021-1-19",
+        "publisher": ""
+    },
+    {
+        "project_name": "Testing Now",
+        "project_description": "A test dataset for Socrata help ticket",
+        "project_url_external": "https://data.nasa.gov/Space-Science/Testing-Now/3gjn-n6ht",
+        "sub_tag": "Space Science",
+        "category": "Project",
+        "created_date": "2021-1-19",
+        "publisher": ""
+    },
+    {
+        "project_name": "Testing Now",
+        "project_description": "A test dataset for Socrata help ticket",
+        "project_url_external": "https://data.nasa.gov/Space-Science/Testing-Now/69wk-iy5c",
+        "sub_tag": "Space Science",
+        "category": "Project",
+        "created_date": "2021-1-13",
+        "publisher": ""
+    },
+    {
+        "project_name": "NASA DAAC Locations TEST",
+        "project_description": "This is an interactive web map of NASA Distributed Active Archive Centers (DAACs). By clicking on the dots, you can learn more about what each DAAC's Area of Expertise, Location, and Website Links.",
+        "project_url_external": "https://data.nasa.gov/dataset/NASA-DAAC-Locations-TEST/fvg2-eqzv",
+        "sub_tag": "None",
+        "category": "Project",
+        "created_date": "2020-7-16",
+        "publisher": ""
+    },
+    {
+        "project_name": "Andersen et al 2020 SWJ Fig 1 data",
+        "project_description": "These data were used to create Fig. 1 of \u201cMonte Carlo Evaluation of the Europa Clipper TID Margin based on the Variability of the Jovian Radiation Environment with Application for Mission Design\u201d by Allen Andersen, Wousik Kim, Steven McClure, and Insoo Jun of the Jet Propulsion Laboratory, California Institute of Technology. \nThis data set contains Galileo Energetic Particle Detector (EPD) average counts per second measurements of 3.2-10.1 MeV protons (B0), 1.5-10.5 MeV electrons (B1), and >11 MeV electrons (DC3) between 8-10 Jovian Radii (Rj) only. Each entry has a corresponding time stamp and orbit name. Further details regarding these data can be found in \nJun, I., Garrett, H. B., Swimm, R., Evans, R. W., and Clough, G. (2005), Statistics of the variations of the high-energy electron population between 7 and 28 jovian radii as measured by the Galileo spacecraft, Icarus, 178(2), 386-394. https://doi.org/10.1016/j.icarus.2005.01.022\nThe research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration.",
+        "project_url_external": "https://data.nasa.gov/dataset/Andersen-et-al-2020-SWJ-Fig-1-data/e6wj-e2uc",
+        "sub_tag": "None",
+        "category": "Project",
+        "created_date": "2019-11-25",
+        "publisher": ""
+    },
+    {
+        "project_name": "X-ray Micro-Tomography (micro-CT)",
+        "project_description": "X-ray micro-tomography (micro-CT) is a non-destructive imaging technique that provides resolution of material microstructures in three dimensions at scales from hundreds of nanometers to centimeters. The technique is used at NASA Ames Research Center to investigate a variety of advanced materials, including lightweight composite heatshields for atmospheric entry, woven materials, parachute textiles and meteoroids. Data are collected using both synchrotron and laboratory-based X-ray sources. Synchrotron micro-CT is performed in collaboration with the beamline 8.3.2 at the Advanced Light Source at Lawrence Berkeley National Laboratory. High-fidelity digital representations of microstructures obtained from micro-CT are used as framework to perform predictive simulations of effective material properties and material response using high performance computing.",
+        "project_url_external": "https://data.nasa.gov/Aerospace/X-ray-Micro-Tomography-micro-CT-/f7qz-8dsr",
+        "sub_tag": "Aerospace",
+        "category": "Project",
+        "created_date": "2018-10-1",
+        "publisher": ""
+    },
+    {
+        "project_name": "NASA Disasters Mapping Portal",
+        "project_description": "This entry does not contain data itself, it is for the website, the NASA Disasters Mapping Portal: https://maps.disasters.nasa.gov\nThe Disasters Mapping Portal contains numerous datasets that can be streamed from the Portal into GIS software. \nThe Disasters Applications area promotes the use of Earth observations to improve prediction of, preparation for, response to, and recovery from natural and technological disasters. Disaster applications and applied research on natural hazards support emergency mitigation approaches, such as early warning systems, and providing information and maps to disaster response and recovery teams.\nNOTE: Removed \"2017 - Present\" from \"Temporal Applicability\" since it's not valid\nNOTE: Removed \"Event-Specific and Near-Real Time Products\" from \"Update Frequency\" since it's not valid",
+        "project_url_external": "https://data.nasa.gov/Earth-Science/NASA-Disasters-Mapping-Portal/vyzu-gm3d",
+        "sub_tag": "Earth Science",
+        "category": "Project",
+        "created_date": "2018-8-6",
+        "publisher": ""
+    },
+    {
+        "project_name": "SxSW 2016 Leads",
+        "project_description": "Companies that visited the NASA boot at the SxSW 2016 conference.",
+        "project_url_external": "https://data.nasa.gov/Management-Operations/SxSW-2016-Leads/yvxp-ccvk",
+        "sub_tag": "Management/Operations",
+        "category": "Project",
+        "created_date": "2016-3-24",
+        "publisher": ""
+    },
+    {
+        "project_name": "Global Landslide Catalog Export",
+        "project_description": "The Global Landslide Catalog (GLC) was developed with the goal of identifying rainfall-triggered landslide events around the world, regardless of size, impacts or location. The GLC considers all types of mass movements triggered by rainfall, which have been reported in the media, disaster databases, scientific reports, or other sources. The GLC has been compiled since 2007 at NASA Goddard Space Flight Center. This is a unique data set with the ID tag \u201cGLC\u201d in the landslide editor.\nThis dataset on data.nasa.gov was a one-time export from the Global Landslide Catalog maintained separately. It is current as of March 7, 2016. The original catalog is available here: http://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fmaps.nccs.nasa.gov%2Fserver%2Frest%2Fservices%2Fglobal_landslide_catalog%2Fglc_viewer_service%2FFeatureServer&source=sd\nTo export GLC data, you must agree to the \u201cTerms and Conditions\u201d. We request that anyone using the GLC cite the two sources of this database:\nKirschbaum, D. B., Adler, R., Hong, Y., Hill, S., & Lerner-Lam, A. (2010). A global landslide catalog for hazard applications: method, results, and limitations. Natural Hazards, 52(3), 561\u2013575. doi:10.1007/s11069-009-9401-4. [1]\nKirschbaum, D.B., T. Stanley, Y. Zhou (In press, 2015). Spatial and Temporal Analysis of a Global Landslide Catalog. Geomorphology. doi:10.1016/j.geomorph.2015.03.016. [2]",
+        "project_url_external": "https://data.nasa.gov/Earth-Science/Global-Landslide-Catalog-Export/dd9e-wu2v",
+        "sub_tag": "Earth Science",
+        "category": "Project",
+        "created_date": "2016-3-7",
+        "publisher": ""
+    },
+    {
+        "project_name": "Outgassing Db",
+        "project_description": "This tenth compilation of outgassing data of materials intended for spacecraft use supersedes Reference Publication 1124, Revision 3, September 1993. The data were obtained at the Goddard Space Flight Center (GSFC), utilizing equipment developed at Stanford Research Institute (SRI) under contract to the Jet Propulsion Laboratory (JPL).",
+        "project_url_external": "https://data.nasa.gov/Applied-Science/Outgassing-Db/r588-f7pr",
+        "sub_tag": "Applied Science",
+        "category": "Project",
+        "created_date": "2015-11-19",
+        "publisher": ""
+    },
+    {
+        "project_name": "Candida albicans response to spaceflight (NASA STS-115) --- GSM1231690_Slide_43",
+        "project_description": "https://c3.nasa.gov/genelab/accession/GLDS-20/\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples.",
+        "project_url_external": "https://data.nasa.gov/Applied-Science/Candida-albicans-response-to-spaceflight-NASA-STS-/59ui-jv2j",
+        "sub_tag": "Applied Science",
+        "category": "Project",
+        "created_date": "2015-10-14",
+        "publisher": ""
+    },
+    {
+        "project_name": "S E- GEOD-50881 Study Samples --- Candida albicans response to spaceflight (NASA STS-115)",
+        "project_description": "https://c3.nasa.gov/genelab/accession/GLDS-20/\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples.",
+        "project_url_external": "https://data.nasa.gov/Applied-Science/S-E-GEOD-50881-Study-Samples-Candida-albicans-resp/8e7s-kdza",
+        "sub_tag": "Applied Science",
+        "category": "Project",
+        "created_date": "2015-10-14",
+        "publisher": ""
+    },
+    {
+        "project_name": "A E- GEOD-50881 Gene Chip Assay --- Candida albicans response to spaceflight (NASA STS-115)",
+        "project_description": "https://c3.nasa.gov/genelab/accession/GLDS-20/\nThis study presents the first global transcriptional profiling and phenotypic characterization of the major human opportunistic fungal pathogen, Candida albicans, grown in spaceflight conditions. Microarray analysis revealed that C. albicans subjected to short-term spaceflight culture differentially regulated 454 genes compared to synchronous ground controls, which represented 8.4% of the analyzed ORFs. Spaceflight-cultured C. albicans induced genes involved in cell aggregation (similar to flocculation), which was validated by microscopic and flow cytometry analysis. We also observed enhanced random budding of spaceflight-cultured cells as opposed to more normal bipolar budding patterns for ground samples, in accordance with the gene expression data. Furthermore, genes involved in antifungal agent and stress resistance were differentially regulated in spaceflight, including induction of ABC transporters and members of the major facilitator family, downregulation of ergosterol-encoding genes, and upregulation of genes involved in oxidative stress resistance. Finally, downregulation of genes involved in the actin cytoskeleton was observed. Interestingly, the transcriptional regulator Cap1 and over 30% of the Cap1 regulon was differentially expressed in spaceflight-cultured C. albicans. A potential role for Cap1 in the spaceflight response of C. albicans is suggested, as this regulator is involved in random budding, cell aggregation, actin cytoskeleton, and oxidative stress resistance; all related to observed spaceflight-associated changes of C. albicans. While culture of C. albicans in microgravity potentiates a global change in gene expression that could induce a virulence-related phenotype, no increased virulence in a murine intraperitoneal (i.p.) infection model was observed. This study represents an important basis for the assessment of the risk that commensal flora could play during spaceflight missions. Furthermore, since the low fluid-shear environment of microgravity is relevant to physical forces encountered by pathogens during the infection process, insights gained from this study could identify novel infectious disease mechanisms, with downstream benefits for the general public. Cells were grown for 24 hours on the space shuttle or as ground-based controls, preserved in RNALater, and stored at -80C. Four samples of each flight- and ground-based controls were harvested for microarray analysis. GAP is Group Activation Pack and each GAP contains 8 FPAs. The numbers represent the # assigned to the particular GAP and the number assigned to the specific FPA (1-8) within the indicated GAP. The same hardware is used for the flight samples and the ground samples.",
+        "project_url_external": "https://data.nasa.gov/Applied-Science/A-E-GEOD-50881-Gene-Chip-Assay-Candida-albicans-re/c5py-4h4g",
+        "sub_tag": "Applied Science",
+        "category": "Project",
+        "created_date": "2015-10-14",
+        "publisher": ""
+    },
+    {
+        "project_name": "NASA Facilities",
+        "project_description": "None",
+        "project_url_external": "https://data.nasa.gov/Management-Operations/NASA-Facilities/gvk9-iz74",
+        "sub_tag": "Management/Operations",
+        "category": "Project",
+        "created_date": "2015-8-26",
+        "publisher": ""
+    },
+    {
+        "project_name": "BeXRB Monitor Data",
+        "project_description": "This is a monitor using data from Swift/BAT, MAXI and Fermi/GBM instruments. \nClick on the table header to change the sorting behaviour. \nColor code for the probability: (rising flux , no change, decreasing flux)\nThe average flux is calculated as the average of the last 3 days of data, without taking the errors into account. The fermi flux is not given in mCrab. \nPlease note that the accuracy of the probabilities is limited by the accuracy of the data used.\nRelease of Friday, the 17th of October 2014\nLast updated at 14:04:07 UT\nCreated as an ESAC trainee project by Eva Laplace. \nSupervisors: Peter Kretschmar, Emilio Salazar and Miguel Arregui. \nContact: peter.kretschmar@esa.int",
+        "project_url_external": "https://data.nasa.gov/dataset/BeXRB-Monitor-Data/jdkf-j3pt",
+        "sub_tag": "None",
+        "category": "Project",
+        "created_date": "2015-4-12",
+        "publisher": ""
+    },
+    {
+        "project_name": "Near-Earth Comets - Orbital Elements",
+        "project_description": "The table below provides J2000 heliocentric ecliptic orbital elements\nfor 170 NECs (Near-Earth Comets) sorted by object number/name.\nhttp://neo.jpl.nasa.gov/cgi-bin/neo_elem?type=NEC",
+        "project_url_external": "https://data.nasa.gov/Space-Science/Near-Earth-Comets-Orbital-Elements/b67r-rgxc",
+        "sub_tag": "Space Science",
+        "category": "Project",
+        "created_date": "2015-4-2",
+        "publisher": ""
+    },
+    {
+        "project_name": "Meteorite Landings",
+        "project_description": "This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings. The Fusion Table is collected by Javier de la Torre and we've also provided an XLS file that consists of 34,513 meteorites and includes the following fields:\nplace\ntype_of_meteorite\nmass_g\nfell_found\nyear\ndatabase\ncoordinate_1\ncoordinates_2\ncartodb_id\ncreated_at\nupdated_at\nyear_date\nlongitude\nlatitude\ngeojson\n**5/14/13\nPlease find an updated data set from The Meteoritical Society that includes more recent meteorites. Under NameType, 'valid' is for most meteorites and 'relict' are for objects that were once meteorites but are now highly altered by weathering on Earth.\nhttp://visualizing.org/datasets/meteorite-landings",
+        "project_url_external": "https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh",
+        "sub_tag": "Space Science",
+        "category": "Project",
+        "created_date": "2015-4-2",
+        "publisher": ""
+    },
+    {
+        "project_name": "Fireball And Bolide Reports",
+        "project_description": "Fireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. The following table provides a chronological data summary of fireball and bolide events provided by U.S. Government sensors. Ground-based observers sometimes also witness these events at night, or much more rarely in daylight, as impressive atmospheric light displays. This website is not meant to be a complete list of all fireball events. Only the brightest fireballs are noted.\nA meteoroid is generally defined as an asteroid or comet fragment that orbits the Sun and has an approximate size between ten microns and a meter or so. Meteors, or \"shooting stars,\" are the visible paths of meteoroids that have entered the Earth's atmosphere at high velocities. A fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer's zenith. Objects causing fireball events can exceed one meter in size. Fireballs that explode in the atmosphere are technically referred to as bolides although the terms fireballs and bolides are often used interchangeably.\nDuring the atmospheric entry phase, an impacting object is both slowed and heated by atmospheric friction. In front of it, a bow shock develops where atmospheric gases are compressed and heated. Some of this energy is radiated to the object causing it to ablate, and in most cases, to break apart. Fragmentation increases the amount of atmosphere intercepted and so enhances ablation and atmospheric braking. The object catastrophically disrupts when the force from the unequal pressures on the front and back sides exceeds its tensile strength.\nObjects causing fireballs are usually not large enough to survive passage through the Earth's atmosphere intact, although fragments, or meteorites, are sometimes recovered on the ground. The approximate total radiated energy in the atmosphere is provided in unit of Joules, a unit of energy given in kilograms times velocity squared, or kg x (m/s)2. An event with an energy equivalent of one thousand tons of TNT explosives is termed a kiloton (kt) event, where 1 kt = 4.185 x 1012 Joules. In the accompanying table, the total radiated energy is given but this is always less that the total impact energy. Peter Brown and colleagues have provided an empirical expression to approximately provide the total impact energy in kt (E), given the optical radiant energy in kt (Eo) (see: Brown et al., The flux of small near-Earth objects colliding with the Earth. Nature, vol. 420, 21 Nov. 2002, pp. 294-296).\nE = 8.2508 x Eo0.885\nThe accompanying table provides information on the date and time of each fireball event, its geographic location, its altitude and velocity at peak brightness, its approximate total optical radiated energy and its calculated total impact energy. The pre-impact velocity components are expressed in a geocentric Earth-fixed reference frame defined as follows: the z-axis is directed along the Earth's rotation axis towards the celestial north pole, the x-axis lies in the Earth's equatorial plane, directed towards the prime meridian, and the y-axis completes the right-handed coordinate system.\nhttp://neo.jpl.nasa.gov/fireball/",
+        "project_url_external": "https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum",
+        "sub_tag": "Space Science",
+        "category": "Project",
+        "created_date": "2015-4-2",
+        "publisher": ""
+    },
+    {
+        "project_name": "WISE NEA/COMET DISCOVERY STATISTICS",
+        "project_description": "These tables show discovery statistics for NEAs and comets discovered by NASA's WISE mission - now renamed to NEOWISE. The first small table shows the number of NEAs, PHAs (a sub-group of NEAs), and comets discovered to-date (within a day or two). The second table shows each object discovered, sorted by designation, with selected parameters describing the object's orbit.\nhttp://neo.jpl.nasa.gov/stats/wise/",
+        "project_url_external": "https://data.nasa.gov/Space-Science/WISE-NEA-COMET-DISCOVERY-STATISTICS/7qz6-zrqt",
+        "sub_tag": "Space Science",
+        "category": "Project",
+        "created_date": "2015-4-2",
+        "publisher": ""
+    },
+    {
+        "project_name": "Extra-vehicular Activity (EVA) - US and Russia",
+        "project_description": "Activities done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere.",
+        "project_url_external": "https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn",
+        "sub_tag": "Raw Data",
+        "category": "Project",
+        "created_date": "2014-7-31",
+        "publisher": ""
+    },
+    {
+        "project_name": "NASA Patents",
+        "project_description": "This dataset shows information pertaining to NASA held and pending patents.",
+        "project_url_external": "https://data.nasa.gov/Raw-Data/NASA-Patents/gquh-watm",
+        "sub_tag": "Raw Data",
+        "category": "Project",
+        "created_date": "2014-7-30",
+        "publisher": ""
+    },
+    {
+        "project_name": "Open Source And General Resource Software",
+        "project_description": "This dataset lists out all software in use by NASA",
+        "project_url_external": "https://data.nasa.gov/Software/Open-Source-And-General-Resource-Software/fk38-4khf",
+        "sub_tag": "Software",
+        "category": "Project",
+        "created_date": "2014-7-30",
+        "publisher": ""
+    }
+]

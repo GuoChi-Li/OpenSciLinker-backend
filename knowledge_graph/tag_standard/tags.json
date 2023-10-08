@@ -1,0 +1,383 @@
+[
+    {
+        "tag": "Arts",
+        "subtag": [
+            "Visual Arts ( VA )",
+            "Performing Arts ( PA )",
+            "Music",
+            "Painting",
+            "Sculpture",
+            "Theater",
+            "Photography",
+            "Dance",
+            "Film Studies",
+            "Art History ( AH )"
+        ]
+    },
+    {
+        "tag": "Biology",
+        "subtag": [
+            "Microbiology",
+            "Genetics",
+            "Ecology",
+            "Zoology",
+            "Botany",
+            "Cell Biology",
+            "Evolutionary Biology",
+            "Human Biology",
+            "Molecular Biology",
+            "Marine Biology"
+        ]
+    },
+    {
+        "tag": "Environmental Science",
+        "subtag": [
+            "Climate Science",
+            "Environmental Policy ( EP )",
+            "Conservation Biology",
+            "Sustainability",
+            "Ecosystem Studies",
+            "Pollution Control",
+            "Renewable Energy",
+            "Oceanography",
+            "Geographical Information Systems ( GIS )",
+            "Natural Resource Management"
+        ]
+    },
+    {
+        "tag": "History",
+        "subtag": [
+            "Ancient History",
+            "Medieval History",
+            "Modern History",
+            "World History",
+            "Cultural History",
+            "Military History",
+            "Economic History",
+            "Art History ( AH )",
+            "Archaeology",
+            "Social History"
+        ]
+    },
+    {
+        "tag": "Language",
+        "subtag": [
+            "Linguistics",
+            "Language Acquisition",
+            "Syntax",
+            "Phonetics",
+            "Semiotics",
+            "Computational Linguistics",
+            "Sociolinguistics",
+            "Language Teaching",
+            "Translation Studies",
+            "Psycholinguistics"
+        ]
+    },
+    {
+        "tag": "Literature",
+        "subtag": [
+            "Classic Literature",
+            "Contemporary Literature",
+            "Poetry",
+            "Fiction",
+            "Non-fiction",
+            "Comparative Literature",
+            "Literary Criticism",
+            "World Literature",
+            "Genre Studies",
+            "Creative Writing"
+        ]
+    },
+    {
+        "tag": "Health and Medicine",
+        "subtag": [
+            "Cardiology",
+            "Pediatrics",
+            "Oncology",
+            "Neurology",
+            "Public Health",
+            "Epidemiology",
+            "Nursing",
+            "Pharmacology",
+            "Medical Ethics",
+            "Alternative Medicine"
+        ]
+    },
+    {
+        "tag": "Nature",
+        "subtag": [
+            "Biodiversity",
+            "Wildlife Conservation",
+            "Natural Landscapes",
+            "Wilderness Exploration",
+            "Nature Photography",
+            "Ecotourism",
+            "Bird Watching",
+            "Marine Life",
+            "Botanical Gardens",
+            "Geological Formations"
+        ]
+    },
+    {
+        "tag": "Physics",
+        "subtag": [
+            "Quantum Mechanics",
+            "Thermodynamics",
+            "Astrophysics",
+            "Particle Physics",
+            "Relativity",
+            "Optics",
+            "Nuclear Physics",
+            "Plasma Physics",
+            "Condensed Matter Physics",
+            "Fluid Dynamics"
+        ]
+    },
+    {
+        "tag": "Chemistry",
+        "subtag": [
+            "Organic Chemistry",
+            "Inorganic Chemistry",
+            "Physical Chemistry",
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Medicinal Chemistry",
+            "Materials Chemistry",
+            "Environmental Chemistry",
+            "Chemical Engineering",
+            "Nanotechnology"
+        ]
+    },
+    {
+        "tag": "Social Science",
+        "subtag": [
+            "Sociology",
+            "Psychology",
+            "Anthropology",
+            "Political Science",
+            "Economics",
+            "Geography",
+            "Cultural Studies",
+            "Social Work",
+            "Gender Studies",
+            "Criminology"
+        ]
+    },
+    {
+        "tag": "Astronomy",
+        "subtag": [
+            "Planetary Science",
+            "Observational Astronomy",
+            "Astrophotography",
+            "Stellar Astronomy",
+            "Cosmology",
+            "Space Exploration",
+            "Astronomical Instruments",
+            "Exoplanets",
+            "Solar System Studies",
+            "Galactic Astronomy",
+            "NASA"
+        ]
+    },
+    {
+        "tag": "Education",
+        "subtag": [
+            "Educational Technology ( EdTech )",
+            "Pedagogy",
+            "Curriculum Development",
+            "Special Education",
+            "Online Study",
+            "Adult Education",
+            "Educational Psychology",
+            "Teacher Training",
+            "Assessment and Evaluation",
+            "Early Childhood Education"
+        ]
+    },
+    {
+        "tag": "Mathematics",
+        "subtag": [
+            "Algebra",
+            "Calculus",
+            "Geometry",
+            "Number Theory",
+            "Statistics",
+            "Mathematical Modeling",
+            "Differential Equations",
+            "Topology",
+            "Combinatorics",
+            "Cryptography"
+        ]
+    },
+    {
+        "tag": "Cultural Studies",
+        "subtag": [
+            "Media Studies",
+            "Popular Culture",
+            "Subcultures",
+            "Cultural Anthropology",
+            "Cultural Identity",
+            "Postcolonial Studies",
+            "Gender and Sexuality Studies",
+            "Youth Culture",
+            "Cultural Heritage",
+            "Visual Culture"
+        ]
+    },
+    {
+        "tag": "Geology",
+        "subtag": [
+            "Mineralogy",
+            "Petrology",
+            "Plate Tectonics",
+            "Volcanology",
+            "Sedimentology",
+            "Hydrogeology",
+            "Geological Mapping",
+            "Geophysics",
+            "Geochemistry",
+            "Environmental Geology"
+        ]
+    },
+    {
+        "tag": "Psychology",
+        "subtag": [
+            "Clinical Psychology",
+            "Cognitive Psychology",
+            "Developmental Psychology",
+            "Social Psychology",
+            "Abnormal Psychology",
+            "Industrial Organizational Psychology",
+            "Neuropsychology",
+            "Health Psychology",
+            "Positive Psychology",
+            "Forensic Psychology"
+        ]
+    },
+    {
+        "tag": "Anthropology",
+        "subtag": [
+            "Cultural Anthropology",
+            "Archaeology",
+            "Linguistic Anthropology",
+            "Biological Anthropology",
+            "Anthropological Ethics",
+            "Medical Anthropology",
+            "Applied Anthropology",
+            "Ethnography",
+            "Anthropology of Religion",
+            "Anthropology of Gender"
+        ]
+    },
+    {
+        "tag": "Political Science",
+        "subtag": [
+            "International Relations ( IR )",
+            "Comparative Politics",
+            "Political Theory",
+            "Public Policy",
+            "Political Economy",
+            "Diplomacy",
+            "Environmental Politics",
+            "Human Rights",
+            "Political Institutions",
+            "Security Studies"
+        ]
+    },
+    {
+        "tag": "Computer Science",
+        "subtag": [
+            "Artificial Intelligence ( AI )",
+            "Machine Learning ( ML )",
+            "Deep Learning ( DL )",
+            "Neural Network ( NN )",
+            "Data Science ( DS )",
+            "Web Development",
+            "Software Engineering ( SE )",
+            "Computer Graphics",
+            "Human Computer Interaction ( HCI )",
+            "Databases ( DB )",
+            "Cybersecurity",
+            "Blockchain",
+            "Operating Systems"
+        ]
+    },
+    {
+        "tag": "Electrical Engineering",
+        "subtag": [
+            "Electronics",
+            "Power Systems",
+            "Control Systems",
+            "Telecommunications",
+            "Signal Processing",
+            "Embedded Systems",
+            "Digital Circuits",
+            "Renewable Energy Systems",
+            "Electromagnetic Fields",
+            "Robotics"
+        ]
+    },
+    {
+        "tag": "Mechanical Engineering",
+        "subtag": [
+            "Thermodynamics",
+            "Fluid Mechanics",
+            "Structural Engineering",
+            "Heat Transfer",
+            "Manufacturing Processes",
+            "Automotive Engineering",
+            "Aerospace Engineering",
+            "Robotics",
+            "Materials Science",
+            "Mechatronics"
+        ]
+    },
+    {
+        "tag": "Civil Engineering",
+        "subtag": [
+            "Structural Engineering",
+            "Transportation Engineering",
+            "Environmental Engineering",
+            "Geotechnical Engineering",
+            "Construction Management",
+            "Water Resources Engineering",
+            "Sustainable Infrastructure",
+            "Urban Planning",
+            "Disaster Resilience",
+            "Bridge Engineering",
+            "Building Information Model ( BIM )"
+        ]
+    },
+    {
+        "tag": "Materials Science",
+        "subtag": [
+            "Nanomaterials",
+            "Polymers",
+            "Biomaterials",
+            "Electronic Materials",
+            "Materials Characterization",
+            "Materials Synthesis",
+            "Thin Films",
+            "Metallurgy",
+            "Composites",
+            "Ceramics"
+        ]
+    },
+    {
+        "tag": "Data",
+        "subtag": [
+            "Database ( DB )",
+            "Data Analysis",
+            "Data Visualization",
+            "Big Data",
+            "Data Mining",
+            "Data Engineering",
+            "Data Warehousing",
+            "Data Ethics",
+            "Data Privacy",
+            "Data Governance",
+            "Data Integration"
+        ]
+    }
+]
